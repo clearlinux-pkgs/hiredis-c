@@ -4,7 +4,7 @@
 #
 Name     : hiredis-c
 Version  : 1.0.2
-Release  : 3
+Release  : 4
 URL      : https://github.com/redis/hiredis/archive/v1.0.2/hiredis-1.0.2.tar.gz
 Source0  : https://github.com/redis/hiredis/archive/v1.0.2/hiredis-1.0.2.tar.gz
 Summary  : SSL Support for hiredis.
