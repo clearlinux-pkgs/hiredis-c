@@ -47,10 +47,12 @@ libhiredis.so.1.1.0:redisConnectWithTimeout
 libhiredis.so.1.1.0:redisContextConnectBindTcp
 libhiredis.so.1.1.0:redisContextConnectTcp
 libhiredis.so.1.1.0:redisContextConnectUnix
+libhiredis.so.1.1.0:redisContextSetTcpUserTimeout
 libhiredis.so.1.1.0:redisContextSetTimeout
 libhiredis.so.1.1.0:redisContextUpdateCommandTimeout
 libhiredis.so.1.1.0:redisContextUpdateConnectTimeout
 libhiredis.so.1.1.0:redisEnableKeepAlive
+libhiredis.so.1.1.0:redisEnableKeepAliveWithInterval
 libhiredis.so.1.1.0:redisFormatCommand
 libhiredis.so.1.1.0:redisFormatCommandArgv
 libhiredis.so.1.1.0:redisFormatSdsCommandArgv
@@ -73,6 +75,7 @@ libhiredis.so.1.1.0:redisReaderGetReply
 libhiredis.so.1.1.0:redisReconnect
 libhiredis.so.1.1.0:redisSetPushCallback
 libhiredis.so.1.1.0:redisSetTcpNoDelay
+libhiredis.so.1.1.0:redisSetTcpUserTimeout
 libhiredis.so.1.1.0:redisSetTimeout
 libhiredis.so.1.1.0:redisvAppendCommand
 libhiredis.so.1.1.0:redisvAsyncCommand
